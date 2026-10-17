@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.FakeGps" parent="android:Theme.Material.Light.NoActionBar" />
+    <color name="ic_launcher_background">#1565C0</color>
+</resources>
